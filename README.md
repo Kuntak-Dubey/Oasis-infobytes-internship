@@ -1,1 +1,1 @@
-https://kuntak-dubey.github.io/Oasis-infobytes-internship/
+https://kuntak-dubey.github.io/Oasis-infobytes-internship/Calculator
